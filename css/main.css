@@ -551,7 +551,6 @@ tr:first-child td + td:after {
   color: #000;
   font-size: 1.57rem;
   font-family: "Lato Bold";
-  font-weight: 900;
 }
 
 .package-btn:hover {
